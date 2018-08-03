@@ -1,0 +1,39 @@
+body{
+	padding: 0;
+}
+.breadcrumb {
+	background: rgba(255, 255, 255, 1); 
+	border: 0px solid rgba(245, 245, 245, 1);
+	padding: 0;
+}
+.carousel-control-prev, .carousel-control-next{
+	background-color: black;
+}
+.carousel-inner{
+	display: inline-flex;
+	vertical-align: middle;
+	align-content: center;
+}
+.chente{
+	height: 300px;
+	width: 300px;
+}
+.btn-group-vertical div{
+	padding-right: 80px;
+	border: 1px solid black;
+	padding-left: 80px;
+}
+
+nav
+.navbar-nav{
+	display: flex;
+	justify-content: flex-end;
+}
+.header{
+	height: 150px;
+}
+.footer{
+	background-color: black;
+	height: 30px;
+	border: 20px;
+}
